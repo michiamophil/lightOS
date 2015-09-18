@@ -1,0 +1,20 @@
+Next at t=0
+(0) [0x0000fffffff0] f000:fff0 (unk. ctxt): jmpf 0xf000:e05b          ; ea5be000f0
+c
+(0) Magic breakpoint
+Next at t=2674077087
+(0) [0x000000100233] 0008:00100233 (unk. ctxt): jmp .+11882 (0x001030a2)  ; e96a2e0000
+Next at t=2674077088
+(0) [0x0000001030a2] 0008:001030a2 (unk. ctxt): xchg ebx, ebx             ; 87db
+Next at t=2674077089
+(0) [0x0000001030a4] 0008:001030a4 (unk. ctxt): xchg bx, bx               ; 6687db
+(0) Magic breakpoint
+Next at t=2674077090
+(0) [0x0000001030a7] 0008:001030a7 (unk. ctxt): xchg bx, bx               ; 6687db
+(0) Magic breakpoint
+Next at t=2674077091
+(0) [0x0000001030aa] 0008:001030aa (unk. ctxt): xchg bx, bx               ; 6687db
+(0) Magic breakpoint
+Next at t=2674077092
+(0) [0x0000001030ad] 0008:001030ad (unk. ctxt): xchg bx, bx               ; 6687db
+(0).[2674077092] [0x0000001030ad] 0008:001030ad (unk. ctxt): xchg bx, bx               ; 6687db
